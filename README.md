@@ -51,21 +51,20 @@ EduCore es una plataforma web de gestión académica tipo SPA (Single Page Appli
 
 ## Estructura del proyecto
 
-educore/
-├── client/          # Frontend React + Tailwind
-│   └── src/
-│       ├── components/
-│       ├── context/
-│       ├── pages/
-│       └── services/
-└── server/          # Backend Node.js + Express
-└── src/
-├── config/
-├── controllers/
-├── middlewares/
-├── models/
-└── routes/
-
+    educore/
+    ├── client/          # Frontend React + Tailwind
+    │   └── src/
+    │       ├── components/
+    │       ├── context/
+    │       ├── pages/
+    │       └── services/
+    └── server/          # Backend Node.js + Express
+        └── src/
+            ├── config/
+            ├── controllers/
+            ├── middlewares/
+            ├── models/
+            └── routes/
 ---
 
 ## Instalación y ejecución
